@@ -1,0 +1,4 @@
+Readme File for web service client SOAP   
+----------------------------------------
+This is a nice webservice client done in SOAP and JAX-WS.
+wsimport tool was also used to create ths stubs.
